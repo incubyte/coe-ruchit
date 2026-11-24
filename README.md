@@ -13,7 +13,5 @@
 | 1 | 3 | Extreme Programming and Agile-as-Craft | [day-03](part-1/day-03-extreme-programming-craft.md) |
 | 1 | 4 | Product Discovery, Customer Understanding and Validating Assumptions | [day-04](part-1/day-04-product-discovery.md) |
 | 1 | 5 | Prioritization Frameworks Done Rigorously | [day-05](part-1/day-05-prioritization-frameworks.md) |
-
-
-
+| 1 | 6 | Specs, User Stories, Acceptance Criteria and Turning Objections into Criteria | [day-06](part-1/day-06-specs-acceptance-criteria.md) |
 
