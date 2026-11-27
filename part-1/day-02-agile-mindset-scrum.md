@@ -6,16 +6,16 @@
 
 | Criterion (copied from the planner) | Done? | Evidence (link or section below) |
 | --- | --- | --- |
-| Understands agile as values not ceremonies | Yes | [Agile Manifesto and principles](#agile-manifesto-and-principles) · [Exercise 5](#exercise-5-mechanics-vs-mindset-check) |
+| Understands agile as values not ceremonies | Yes | [Agile Manifesto and principles](#agile-manifesto-and-principles) · [Exercise 5](#exercise-5-mechanics-vs-mindset-check) · [Agile course](#agile-project-and-product-management-course-oreilly) |
 | Understands the five Scrum values | Yes | [Scrum values](#scrum-values) |
 | Explains the Scrum framework accountabilities events and artifacts | Yes | [The Scrum framework](#the-scrum-framework) · [Exercise 1](#exercise-1-scrum-events-and-artifacts-map) |
 | Explains at least three org designs affecting the PO accountability | Yes | [Exercise 3](#exercise-3-org-designs-and-the-po-accountability) |
-| Describes how the PO interacts across events and the sprint | Yes | [The PO during the sprint](#the-po-during-the-sprint) · [Exercise 1](#exercise-1-scrum-events-and-artifacts-map) |
+| Describes how the PO interacts across events and the sprint | Yes | [The PO during the sprint](#the-po-during-the-sprint) · [Exercise 1](#exercise-1-scrum-events-and-artifacts-map) · [Agile course](#agile-project-and-product-management-course-oreilly) |
 | Explains why the PO is one person not a committee | Yes | [Product Owner accountability](#product-owner-accountability) |
 | Explains PO authority over the backlog while collaborating | Yes | [Product Owner accountability](#product-owner-accountability) · [Exercise 2](#exercise-2-po-authority-in-real-situations) |
-| Understands handling PO across multiple teams | Yes | [One PO, many teams: Nexus](#one-po-many-teams-nexus) |
+| Understands handling PO across multiple teams | Yes | [One PO, many teams: Nexus](#one-po-many-teams-nexus) · [Agile course](#agile-project-and-product-management-course-oreilly) |
 | Explains the PO's contribution to each event conceptually | Yes | [Exercise 1](#exercise-1-scrum-events-and-artifacts-map) |
-| Distinguishes Scrum Kanban Scrumban | Yes | [Exercise 4](#exercise-4-scrum-vs-kanban-vs-scrumban) |
+| Distinguishes Scrum Kanban Scrumban | Yes | [Exercise 4](#exercise-4-scrum-vs-kanban-vs-scrumban) · [Agile course](#agile-project-and-product-management-course-oreilly) |
 | Reflects on mindset vs mechanics | Yes | [Exercise 5](#exercise-5-mechanics-vs-mindset-check) · [Reflection](#reflection) |
 
 ## Key learnings
@@ -100,6 +100,27 @@ The values make the three pillars (transparency, inspection, adaptation) work. W
   - The PO still owns a single backlog. Teams don't get their own competing backlogs.
   - The PO can delegate refinement to teams but stays accountable for ordering and value.
   - Refinement has to reveal dependencies early so teams can deliver work that integrates.
+
+### Agile Project and Product Management course (O'Reilly)
+
+*Source: Agile Project and Product Management, Mariya Breyter (Pearson / O'Reilly)*
+
+**Progress:** I watched the Introduction and Lessons 1 to 7 in full. Lesson 8 is 93% complete: "8.4 Your Action Plan," "8.5 Commitment Pledge" and the course summary (about 13 minutes) remain.
+
+![O'Reilly course progress: Introduction and Lessons 1–7 complete, Lesson 8 at 93%](assets/day-02-oreilly-course-progress.png)
+
+**How the course connects to today's topics.** The planner pointed me to the agile delivery frameworks and product management sections. These are the parts I took the most from:
+
+| Lesson | Lessons most relevant to Day 2 | My takeaway |
+| --- | --- | --- |
+| 1. Introduction to Agile Project and Product Management | 1.2 Need for incremental and iterative delivery · 1.3 Agile Manifesto · 1.6 Overview of agile delivery frameworks · 1.7 Case study: from Blockbuster to Netflix | Agile started as a response to the risk of big, late deliveries. The Blockbuster and Netflix story shows that "never done, keep iterating" is a business survival point, not just a delivery method. |
+| 2. Product Goal Setting | 2.1 OKRs · 2.3 Design thinking · 2.4 Lean Startup practices | A Product Goal works best when tied to measurable key results, which links to the Scrum Guide's Product Goal commitment. |
+| 3. Customer-centric Product Management | 3.3 Persona analysis · 3.4 Empathy map · 3.5 Customer journey · 3.6 Product canvas | The PO's "why" and "who" come from structured customer research, not from stakeholder opinions. |
+| 4. Requirements Gathering and Maintenance | 4.2 Scope management in agile vs waterfall · 4.3 Product backlog taxonomy · 4.5 Prioritization in agile · 4.6 Backlog refinement · 4.7 User story mapping | In agile, scope is what flexes, which is why the PO's ordering of the backlog matters so much. Refinement is ongoing, not a phase. |
+| 5. Agile Delivery Practices | 5.1 Comparison of agile frameworks · 5.2 Team topology · 5.3 Agile roles and responsibilities · 5.5 Agile events · 5.6 Definition of Done · 5.7 Case study: Agile at Spotify | Frameworks differ in rhythm, roles and how they handle change, the same contrast as my Scrum, Kanban and Scrumban table. The Spotify case showed team structure shapes how the PO accountability works. |
+| 6. Agile Culture and Communications Management | 6.1 Continuous improvement · 6.3 Remote work · 6.4 Intercultural communication · 6.6 Retrospectives | Agile is a culture of inspecting and improving. Remote and cross-cultural teams need deliberate communication, which is relevant for an offshore pod. |
+| 7. Business Agility | 7.4 Budget, capacity and risk in agile · 7.5 Enterprise agile transformation · 7.6 Scaled agile frameworks | When many teams share one product, scaling frameworks (Nexus among them) aim to keep one backlog and one product direction. |
+| 8. Your Journey to Agility | 8.1 Bringing it back to your company · 8.2 What you can do starting tomorrow · 8.3 Introducing agility into your work | Agility is adopted through small, practical changes, not a big rollout. |
 
 ## Exercises
 
@@ -210,6 +231,7 @@ What was new for me is that agile is defined by values, and that the Scrum event
 
 - **Tools:** Claude.
 - **Used for:** structuring my notes into this template, drafting comparison tables, generating the Mermaid diagram in Exercise 1, and checking that every success criterion has evidence.
+- **Course notes:** Claude drafted the O'Reilly course table from my screenshots of the lesson list and combined the screenshots into one image. I watched the course and checked each takeaway against what I learned.
 - **Diagram:** the Mermaid diagram in Exercise 1 was generated by Claude. I reviewed it against the Scrum Guide to check the event and artifact flow.
 - **What I checked and corrected:**
   - Checked the Scrum facts (events, timeboxes, commitments, who can cancel a Sprint) against the 2020 Scrum Guide.
@@ -224,4 +246,5 @@ What was new for me is that agile is defined by values, and that the Scrum event
 
 ## Changes after review
 
-- 2026-11-18: Updated the AI use section to state that the Mermaid diagram was generated with Claude, after a question from my CoE leader.
+- 2026-11-17: Updated the AI use section to state that the Mermaid diagram was generated with Claude, after a question from my CoE leader.
+- 2026-11-28: Added my notes and progress screenshot for the O'Reilly Agile Project and Product Management course, which I had not covered in the original submission, and linked it as extra evidence for four success criteria.
